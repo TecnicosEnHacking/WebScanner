@@ -19,7 +19,7 @@ Esta herramienta fue creada por Técnicos en Hacking exclusivamente para fines e
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/TecnicosEnHacking/WebScanner
-   cd web-vulnerability-scanner
+   cd WebScanner
    ```
 2. Instalar dependencias
    ```bash
