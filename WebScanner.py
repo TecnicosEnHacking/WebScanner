@@ -19,7 +19,7 @@ user_agent = "Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit
 def disclaimer():
     print("\n*******************")
     print("   Herramienta creada por Técnicos en Hacking")
-    print("   No nos hacemos responsables del mal uso de esta herramienta.")
+    print("   No nos hacemos responsables del mal uso de esta herramienta")
     print("   Utilícela solo en entornos controlados y con permiso.")
     print("*******************\n")
 
